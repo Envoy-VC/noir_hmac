@@ -13,7 +13,7 @@ In your `Nargo.toml` file, add the version of this library you would like to ins
 
 ```toml
 [dependencies]
-noir_hmac = { tag = "v1.0.0", git = "https://github.com/Envoy-VC/noir_hmac" }
+noir_hmac = { tag = "v1.0.1", git = "https://github.com/Envoy-VC/noir_hmac" }
 ```
 
 ## Usage
