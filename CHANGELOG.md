@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Envoy-VC/noir_hmac/compare/v1.0.0...v1.0.1) (2024-10-19)
+
+
+### Bug Fixes
+
+* Release 1.0.1 ([04594a9](https://github.com/Envoy-VC/noir_hmac/commit/04594a9169801c3a30896fd3ff966f1e27014742))
+
 ## 1.0.0 (2024-10-19)
 
 
