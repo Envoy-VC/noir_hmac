@@ -19,4 +19,4 @@ jobs:
      with:
       token: ${{ secrets.GITHUB_TOKEN }}
       command: manifest
-      release-type: github
+      release-type: simple
