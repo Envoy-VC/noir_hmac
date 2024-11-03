@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/Envoy-VC/noir_hmac/compare/v1.0.1...v1.0.2) (2024-11-03)
+
+
+### Bug Fixes
+
+* Update implementation for bounded vectors ([81acec9](https://github.com/Envoy-VC/noir_hmac/commit/81acec99f0708fca7b5514da5e0f471becb9361e))
+
 ## [1.0.1](https://github.com/Envoy-VC/noir_hmac/compare/v1.0.0...v1.0.1) (2024-10-19)
 
 
